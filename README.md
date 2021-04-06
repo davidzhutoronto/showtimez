@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @showtimez
+- 👋 Hi, I’m David
 - 👀 I’m interested in cooking, skiing, gaming, mining
 - 🌱 I’m currently learning programming, c++, web developing
 - 💞️ I’m looking to collaborate on ...
