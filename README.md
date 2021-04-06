@@ -1,8 +1,7 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in cooking, skiing, gaming, mining
 - 🌱 I’m currently learning programming, c++, web developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me dzhu34@myseneca.ca
 
 <!---
 showtimez/showtimez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
