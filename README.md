@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in cooking, skiing, PC gaming, PC hardware, cryptocurrency mining
-- 🌱 I’m currently learning programming, c++, web developing, node.js, html
-- ✨ I will be insterested in doing back-end programming
+- 👀 I’m enjoy cooking, skiing, PC gaming, PC hardware, cryptocurrency
+- 🌱 I have been learning programming, c++, web development(node.js, html, css, MVC framework, React, Angular...) Java, iOS and Android development, database(SQL, MongoDB)
+- ✨ I will be insterested in doing full-stack programming
 - 📫 How to reach me dzhu34@myseneca.ca
 
 <!---
